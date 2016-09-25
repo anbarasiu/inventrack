@@ -15,3 +15,5 @@ Internally, Bootstrap is used as the responsive framework for a better mobile ex
 Nodemailer is used to trigger the email notifications.
 MongoDB to store the product data.
 Heroku as the hosting platform.
+
+(Built for Intuit Hackathon 2015)
